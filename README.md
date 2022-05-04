@@ -5,3 +5,4 @@ The landing page for all projects uploaded to my github
 - [Shader-Breakout](https://grin0021.github.io/Shader-Breakout)
 - [PuzzleBubble](https://grin0021.github.io/PuzzleBubble)
 - [Barrel-Hopper](https://grin0021.github.io/Barrel-Hopper)
+- [Tacet-Monstrum](https://grin0021.github.io/Tacet-Monstrum)
