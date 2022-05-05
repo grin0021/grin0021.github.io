@@ -1,4 +1,4 @@
-The landing page for all projects uploaded to my github
+The landing page for all projects uploaded to my github. (WIP)
 
 # Projects
 
