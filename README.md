@@ -14,7 +14,7 @@ This site and the projects it contains are all works in progress.
 ## Unreal Engine 4
 
 - [Barrel-Hopper](https://grin0021.github.io/Barrel-Hopper)
-- [BountyDash](https://grin0021.github.io/BountyDash)
+- [Bounty-Dash](https://grin0021.github.io/BountyDash)
 - [Tower-Defence (Mini Capstone)](https://grin0021.github.io/Mini-Capstone-Tower-Defence)
 
 ### Contact
